@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/SanderLahoz/Devop-training/actions/workflows/devops.yml/badge.svg)](https://github.com/SanderLahoz/Devop-training/actions/workflows/devops.yml)
+
+
 # Devop-training
 Tutorial by https://www.youtube.com/watch?v=SqFFCTNyi88&amp;t=4619s
 
